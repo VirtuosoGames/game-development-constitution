@@ -1,0 +1,4 @@
+interface:
+  display_name: "Game Development Constitution"
+  short_description: "Route game-development decisions to focused evidence and UE 5.8 guidance"
+  default_prompt: "Use $game-development-constitution to help with this game-development task."
